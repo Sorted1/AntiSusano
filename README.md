@@ -26,6 +26,8 @@ AntiSusano is a lightweight tool designed to check a user's device for known tra
 
 2. Follow the on-screen instructions to initiate the cheat detection process.
 
+3. Check result.txt for the result
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
